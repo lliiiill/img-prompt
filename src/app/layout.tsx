@@ -2,7 +2,7 @@ import React from "react";
 import { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
-import { Navigation } from "./ui/Navigation";
+
 
 export const metadata: Metadata = {
   title: "IMGPrompt - Stable Diffusion 和 Midjourney 的图像提示词生成工具",
